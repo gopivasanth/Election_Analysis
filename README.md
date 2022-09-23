@@ -35,6 +35,6 @@ The following is the summary of the election results across the following parame
 
 ## ****Election-Audit Summary****
 
-![PyPoll_Challenge.py](https://github.com/gopivasanth/Election_Analysis/blob/e7dc84908fb2d2e15ec2209bd34c4bbb30203f4a/PyPoll_Challenge.py) script has been developed to automate the counting of elections results for selected counties within Colorado where the results are published in the format as mentioned in the section Dataset. 
+[PyPoll_Challenge.py](https://github.com/gopivasanth/Election_Analysis/blob/e7dc84908fb2d2e15ec2209bd34c4bbb30203f4a/PyPoll_Challenge.py) script has been developed to automate the counting of elections results for selected counties within Colorado where the results are published in the format as mentioned in the section Dataset. 
 
 This is a powerful script that is scalable and can be used to automate other election audits at provincial and federal levels. 
